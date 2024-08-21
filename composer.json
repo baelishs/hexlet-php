@@ -1,5 +1,7 @@
 {
     "name": "hex/example",
     "description": "test package",
-    "require": {}
+    "require": {
+        "illuminate/collections": "^10.48"
+    }
 }
