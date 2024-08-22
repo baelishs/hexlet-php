@@ -1,5 +1,10 @@
 {
     "name": "hex/example",
+    "autoload": {
+        "files": [
+        src/Runner.php
+        ]
+    },
     "description": "test package",
     "require": {
         "illuminate/collections": "^10.48"
