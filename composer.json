@@ -2,7 +2,7 @@
     "name": "hex/example",
     "autoload": {
         "files": [
-        src/Runner.php
+        "src/Runner.php"
         ]
     },
     "description": "test package",
